@@ -6,4 +6,4 @@ valid  =/content/darknet/cfg/test.txt
 
 names = /content/darknet/cfg/obj.names
 
-backup = /content/darknet/cfg/weights
+backup = /content/darknet/cfg
