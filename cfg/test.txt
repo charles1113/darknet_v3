@@ -1,0 +1,4 @@
+/content/darknet/data/yolo_data/image18.jpg
+/content/darknet/data/yolo_data/image19.jpg
+/content/darknet/data/yolo_data/image20.jpg
+/content/darknet/data/yolo_data/image21.jpg
